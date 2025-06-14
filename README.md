@@ -8,7 +8,7 @@ Each project focuses on solving a real-world business problem using tools like *
 
 ## 📁 Projects Overview
 
-### 1. 📱 App Analytics
+### 1. 📱 Google Play Store Apps Analytics
 Analyzed user behavior across different platforms and features to identify patterns in engagement and retention.
 
 ### 2. 📦 Inventory Trend Analysis
@@ -26,8 +26,6 @@ Collected stock data using Python and analyzed patterns across Apple, Google, Mi
 
 - **Python** (pandas, seaborn, matplotlib)
 - **SQL**
-- **Tableau**
-- **Power BI**
 
 ---
 
