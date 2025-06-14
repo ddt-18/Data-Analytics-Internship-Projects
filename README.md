@@ -38,10 +38,21 @@ Each folder contains:
 
 ---
 
-## 🚀 How to Use
+## 👀 How to Explore
 
-You can explore each project by navigating into its folder. Insights are summarized and visuals are included where applicable.
+1. Browse the folders for each project.
+2. Read `summary.md` inside each for a quick overview.
+3. Open the Jupyter notebooks to dive into the analysis.
 
 ---
 
-Feel free to connect or ask me about any of these projects!
+## 🤝 Let’s Connect
+
+Feel free to reach out if you'd like to collaborate or discuss any of these projects. I'm always open to feedback and learning!
+
+> 🌐 [LinkedIn Profile](www.linkedin.com/in/dhaara-thakkar)  
+> 📧 dhaarathakkar19@gmail.com
+
+---
+
+Thanks for stopping by! ⭐ If you found this repo helpful or inspiring, feel free to star it :)
